@@ -11,3 +11,13 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+
+# Fix for Windows timezone error
+gem 'tzinfo-data', platforms: [:windows, :mingw, :mswin, :x64_mingw, :jruby]
+
+# Fix for Ruby 3.4+ / 4.0+ version compatibility
+gem 'csv'
+gem 'bigdecimal'
+gem 'base64'
+gem 'mutex_m'

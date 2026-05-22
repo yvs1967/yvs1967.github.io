@@ -7,6 +7,20 @@ redirect_from:
   - /resume
 ---
 
+<!-- Here is the most recent version of my [professional Résumé](https://sabrinafowler.github.io/files/resume.pdf), last updated March 21, 2026. -->
+
+
+Here is the most recent version of my [academic CV](https://yvs1967.github.io/files/cv.pdf), last updated May 22, 2026.
+
+<!-- ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 {% include base_path %}
 
 Education
@@ -61,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
