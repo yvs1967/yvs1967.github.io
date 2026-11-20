@@ -1,5 +1,5 @@
 ---
-title: "Generalized Neural Ideals and Neural Codes: An Algebraic Framework for Neural Network Classification
+title: "Generalized Neural Ideals and Neural Codes: An Algebraic Framework for Neural Network Classification"
 category: manuscripts
 permalink: /publication/2026-07-16-neural_ideals_neural_codes
 excerpt: 'Introduction to Neural ideal in the setting of Neural networks and understanding the applications of the neural ideal framework implications.'
