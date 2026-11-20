@@ -3,7 +3,7 @@ title: "Generalized Neural Ideals and Neural Codes: An Algebraic Framework for N
 category: manuscripts
 permalink: /publication/2026-07-16-neural_ideals_neural_codes
 excerpt: 'Introduction to Neural ideal in the setting of Neural networks and understanding the applications of the neural ideal framework implications.'
-date: 2026-07-16
+date: 2026-11-20
 venue: 'arxiv'
 paperurl: 'https://yvs1967.github.io/files/generalized_neural_ideal.pdf'
 ---
