@@ -10,7 +10,7 @@ redirect_from:
 <!-- Here is the most recent version of my [professional Résumé](https://sabrinafowler.github.io/files/resume.pdf), last updated March 21, 2026. -->
 
 
-Here is the most recent version of my [academic CV](https://yvs1967.github.io/files/cv.pdf), last updated November 13, 2026.
+Here is the most recent version of my [academic CV](https://yvs1967.github.io/files/cv.pdf), last updated November 20, 2026.
 
 <!-- ---
 layout: archive
